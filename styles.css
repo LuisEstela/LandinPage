@@ -1,0 +1,72 @@
+.1_3 { 
+	overflow:hidden;
+}.e1_3 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:1024px;
+	position:absolute;
+}.e1_11 { 
+	width:416px;
+	height:377px;
+	position:absolute;
+	left:512px;
+	top:135px;
+	background-image:url(images/pngegg_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e1_12 { 
+	color:rgba(0, 0, 0, 1);
+	width:259px;
+	height:41px;
+	position:absolute;
+	left:590px;
+	top:539px;
+	font-family:Roboto;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}.e1_16 { 
+	color:rgba(0, 0, 0, 1);
+	width:259px;
+	height:41px;
+	position:absolute;
+	left:832px;
+	top:539px;
+	font-family:Roboto;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}.e1_13 { 
+	color:rgba(0, 0, 0, 1);
+	width:259px;
+	height:41px;
+	position:absolute;
+	left:1074px;
+	top:539px;
+	font-family:Roboto;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}.e1_14 { 
+	color:rgba(0, 0, 0, 1);
+	width:259px;
+	height:41px;
+	position:absolute;
+	left:348px;
+	top:539px;
+	font-family:Roboto;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}.e1_15 { 
+	color:rgba(0, 0, 0, 1);
+	width:259px;
+	height:41px;
+	position:absolute;
+	left:106px;
+	top:539px;
+	font-family:Roboto;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}
